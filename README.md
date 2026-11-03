@@ -87,3 +87,4 @@ sobre stock 5 y verifica exactamente 5 éxitos, 15 rechazos, stock final 0 y fac
 - Fuera del alcance del MVP: autenticación/roles (el campo `vendedor`/`usuario` está listo para
   conectarse a un login) y reembolsos al anular ventas pagadas.
 # Sistema-de-inventario-clase-yoimer
+# Sistema-de-inventario-clase-yoimer
